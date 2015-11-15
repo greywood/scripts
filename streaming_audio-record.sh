@@ -17,8 +17,8 @@
 # streaming_audio-record.sh "http://ckua.streamon.fm:8000/CKUA-64k-m.mp3" "CKUA" "World Spinning" "02:00:00" "World Music"
 
 # set some variables
-SAVE_DIR="/media/storage/vol2/music"
-TMP_DIR="${HOME}/tmp"
+SAVE_DIR="/path/to/dir"
+TMP_DIR="/tmp"
 
 #-----------
 
